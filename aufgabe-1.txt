@@ -1,0 +1,23 @@
+1.1
+    -Erwartung: 5
+    -Ergebnis: 5
+
+1.2
+    -Erwartung: 3
+    -Ergebnis: 3
+
+2.1
+    -Erwartung: 2.5
+    -Ergebnis: 2 (Fehler)
+
+2.2
+    -Erwartung: 3
+    -Ergebnis: 3
+
+3.1
+    -Erwartung: 2
+    -Ergebnis: 2
+
+3.2
+    -Erwartung: [1, 2, 3]
+    -Ergebnis: [1, 2, 3]
